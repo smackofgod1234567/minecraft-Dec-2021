@@ -4,5 +4,17 @@
     "name": "MagicHarmony",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7a4bde3f-8a9f-4872-a600-c4336e4f44a6",
+    "name": "Relabraize",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c464352d-69e6-49eb-b59b-d1997f7150ca",
+    "name": "Brogrammist",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

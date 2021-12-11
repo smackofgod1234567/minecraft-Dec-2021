@@ -1,69 +1,100 @@
-[22:12:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:12:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:12:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:12:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:12:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:12:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:12:36] [ServerMain/INFO]: Reloading ResourceManager: Default
-[22:12:37] [Worker-Main-19/INFO]: Loaded 7 recipes
-[22:12:38] [Worker-Main-19/INFO]: Loaded 1141 advancements
-[22:12:43] [Server thread/INFO]: Starting minecraft server version 1.18
-[22:12:43] [Server thread/INFO]: Loading properties
-[22:12:43] [Server thread/INFO]: Default game type: SURVIVAL
-[22:12:43] [Server thread/INFO]: Generating keypair
-[22:12:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:12:43] [Server thread/INFO]: Using default channel type
-[22:12:44] [Server thread/INFO]: Preparing level "johnben"
-[22:12:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:12:45] [Worker-Main-26/INFO]: Preparing spawn area: 0%
-[22:12:45] [Worker-Main-27/INFO]: Preparing spawn area: 0%
-[22:12:45] [Worker-Main-29/INFO]: Preparing spawn area: 0%
-[22:12:45] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[22:12:46] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[22:12:46] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[22:12:47] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[22:12:47] [Worker-Main-27/INFO]: Preparing spawn area: 1%
-[22:12:48] [Worker-Main-30/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:52] [Worker-Main-29/INFO]: Preparing spawn area: 4%
-[22:12:53] [Worker-Main-28/INFO]: Preparing spawn area: 19%
-[22:12:53] [Worker-Main-29/INFO]: Preparing spawn area: 32%
-[22:12:54] [Worker-Main-23/INFO]: Preparing spawn area: 54%
-[22:12:54] [Worker-Main-24/INFO]: Preparing spawn area: 73%
-[22:12:55] [Worker-Main-17/INFO]: Preparing spawn area: 88%
-[22:12:55] [Server thread/INFO]: Time elapsed: 11246 ms
-[22:12:55] [Server thread/INFO]: Done (11.474s)! For help, type "help"
-[22:13:25] [User Authenticator #1/INFO]: UUID of player MagicHarmony is 5a49631d-5d5e-4120-9a10-16796df37419
-[22:13:25] [Server thread/INFO]: MagicHarmony[/192.168.2.88:52472] logged in with entity id 113 at (-390.60795465450167, 69.0, 603.332251889561)
-[22:13:25] [Server thread/INFO]: MagicHarmony joined the game
-[22:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[22:13:28] [User Authenticator #2/INFO]: UUID of player Relabraize is 7a4bde3f-8a9f-4872-a600-c4336e4f44a6
-[22:13:28] [Server thread/INFO]: Relabraize[/99.253.132.92:54728] logged in with entity id 199 at (-325.9123574084189, 74.0, 595.1216042982759)
-[22:13:28] [Server thread/INFO]: Relabraize joined the game
-[22:38:18] [User Authenticator #3/INFO]: UUID of player Brogrammist is c464352d-69e6-49eb-b59b-d1997f7150ca
-[22:38:18] [Server thread/INFO]: Brogrammist[/99.244.242.208:58339] logged in with entity id 5506 at (-327.0033243363706, 74.0, 597.6356212055957)
-[22:38:18] [Server thread/INFO]: Brogrammist joined the game
-[22:41:59] [Server thread/INFO]: Relabraize lost connection: Disconnected
-[22:41:59] [Server thread/INFO]: Relabraize left the game
-[22:42:01] [Server thread/INFO]: Brogrammist lost connection: Disconnected
-[22:42:01] [Server thread/INFO]: Brogrammist left the game
-[22:43:09] [Server thread/INFO]: MagicHarmony lost connection: Disconnected
-[22:43:09] [Server thread/INFO]: MagicHarmony left the game
-[22:43:15] [Server thread/INFO]: Stopping the server
-[22:43:15] [Server thread/INFO]: Stopping server
-[22:43:15] [Server thread/INFO]: Saving players
-[22:43:15] [Server thread/INFO]: Saving worlds
-[22:43:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[johnben]'/minecraft:overworld
-[22:43:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[johnben]'/minecraft:the_nether
-[22:43:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[johnben]'/minecraft:the_end
-[22:43:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (johnben): All chunks are saved
-[22:43:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:43:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:43:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-329, y=82, z=533} gh{x=-327, y=81, z=534}
+[00:13:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-326, y=76, z=549} gh{x=-326, y=75, z=549}
+[00:13:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-326, y=76, z=549} gh{x=-326, y=75, z=549}
+[00:13:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-326, y=76, z=549} gh{x=-326, y=75, z=549}
+[00:13:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-326, y=76, z=549} gh{x=-326, y=75, z=549}
+[00:13:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-326, y=74, z=551} gh{x=-326, y=75, z=549}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:16:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-337, y=75, z=552} gh{x=-337, y=74, z=551}
+[00:24:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-64, y=67, z=37} gh{x=-63, y=66, z=37}
+[00:25:12] [Server thread/INFO]: Relabraize has made the advancement [Diamonds!]
+[00:26:50] [Server thread/INFO]: <MagicHarmony> -405 -58 501
+[00:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-40, y=59, z=29} gh{x=-40, y=58, z=29}
+[00:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-40, y=59, z=29} gh{x=-40, y=58, z=29}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-40, y=59, z=29} gh{x=-40, y=58, z=29}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-40, y=59, z=29} gh{x=-40, y=58, z=29}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-40, y=59, z=29} gh{x=-40, y=58, z=29}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-40, y=59, z=29} gh{x=-40, y=58, z=29}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-42, y=59, z=29} gh{x=-41, y=58, z=28}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-42, y=59, z=29} gh{x=-41, y=58, z=28}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-42, y=59, z=29} gh{x=-41, y=58, z=28}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-42, y=59, z=29} gh{x=-41, y=58, z=28}
+[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-42, y=59, z=29} gh{x=-41, y=58, z=28}
+[00:32:06] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-43, y=59, z=29} gh{x=-45, y=59, z=30}
+[00:32:06] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-43, y=59, z=29} gh{x=-44, y=57, z=30}
+[00:32:06] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-46, y=60, z=30} gh{x=-44, y=57, z=30}
+[00:35:03] [Server thread/INFO]: Relabraize lost connection: Disconnected
+[00:35:03] [Server thread/INFO]: Relabraize left the game
+[00:35:31] [User Authenticator #4/INFO]: UUID of player Relabraize is 7a4bde3f-8a9f-4872-a600-c4336e4f44a6
+[00:35:31] [Server thread/INFO]: Relabraize[/127.0.0.1:58824] logged in with entity id 29081 at (-501.69999998807907, -58.0, 600.5017252698979)
+[00:35:31] [Server thread/INFO]: Relabraize joined the game
+[00:36:26] [Server thread/INFO]: Brogrammist has made the advancement [Best Friends Forever]
+[00:50:12] [Server thread/INFO]: MagicHarmony lost connection: Disconnected
+[00:50:12] [Server thread/INFO]: MagicHarmony left the game
+[01:15:35] [User Authenticator #5/INFO]: UUID of player GuardianOfPandas is de91b362-4b70-4df5-a9f3-4c26c1138b50
+[01:15:35] [Server thread/INFO]: GuardianOfPandas[/99.253.105.235:62272] logged in with entity id 40212 at (-418.051625822897, 71.0, 585.6720791071417)
+[01:15:35] [Server thread/INFO]: GuardianOfPandas joined the game
+[01:15:41] [Server thread/INFO]: <Brogrammist> !!!!
+[01:15:45] [Server thread/INFO]: <Brogrammist> LESGOOOOOOOOOOOOOOOOOOOOO
+[01:15:46] [Server thread/INFO]: <Relabraize> wtf
+[01:15:52] [Server thread/INFO]: <Relabraize> w000000000000000000000t
+[01:15:56] [Server thread/INFO]: <Brogrammist> ./op GuardianOfPandas
+[01:16:07] [Server thread/INFO]: <GuardianOfPandas> im tired though
+[01:16:12] [Server thread/INFO]: <Brogrammist> tired of not playing Minecraft?
+[01:16:17] [Server thread/INFO]: <GuardianOfPandas> work
+[01:16:29] [Server thread/INFO]: <Brogrammist> :(
+[01:23:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:23:06] [Server thread/INFO]: op<--[HERE]
+[01:23:07] [Server thread/INFO]: <GuardianOfPandas> op
+[01:23:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:23:10] [Server thread/INFO]: /op<--[HERE]
+[01:23:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:23:16] [Server thread/INFO]: /op<--[HERE]
+[01:23:36] [Server thread/INFO]: Made Relabraize a server operator
+[01:23:52] [Server thread/INFO]: <Brogrammist> op me bro
+[01:24:45] [Server thread/INFO]: Made Brogrammist a server operator
+[01:24:57] [Server thread/INFO]: [Brogrammist: Kicked Brogrammist: Kicked by an operator]
+[01:24:57] [Server thread/INFO]: Brogrammist lost connection: Kicked by an operator
+[01:24:57] [Server thread/INFO]: Brogrammist left the game
+[01:25:03] [Server thread/INFO]: GuardianOfPandas lost connection: Disconnected
+[01:25:03] [Server thread/INFO]: GuardianOfPandas left the game
+[01:25:03] [User Authenticator #6/INFO]: UUID of player Brogrammist is c464352d-69e6-49eb-b59b-d1997f7150ca
+[01:25:03] [Server thread/INFO]: Brogrammist[/99.244.242.208:49530] logged in with entity id 42915 at (-327.3077300733699, 74.0, 593.4478598317623)
+[01:25:03] [Server thread/INFO]: Brogrammist joined the game
+[01:25:05] [User Authenticator #7/INFO]: UUID of player GuardianOfPandas is de91b362-4b70-4df5-a9f3-4c26c1138b50
+[01:25:05] [Server thread/INFO]: GuardianOfPandas[/99.253.105.235:49890] logged in with entity id 43029 at (-327.4227463324913, 74.0, 594.5763006598955)
+[01:25:05] [Server thread/INFO]: GuardianOfPandas joined the game
+[01:27:40] [Server thread/INFO]: [Brogrammist] test
+[01:27:44] [Server thread/INFO]: <Relabraize> test
+[01:28:18] [Server thread/INFO]: * Brogrammist dunks on jon
+[01:28:37] [Server thread/INFO]: * Brogrammist teleports behind you
+[01:29:07] [Server thread/INFO]: * Brogrammist encourages you to sleep in a bed
+[01:29:14] [Server thread/INFO]: * GuardianOfPandas <lol>
+[01:29:26] [Server thread/INFO]: * GuardianOfPandas asdawdasd
+[01:29:42] [Server thread/INFO]: * Relabraize lmao
+[01:29:54] [Server thread/INFO]: * Brogrammist makes a concerned expression
+[01:39:06] [Server thread/INFO]: * Brogrammist destroys Don
+[01:39:29] [Server thread/INFO]: * Relabraize pegs Don
+[01:44:20] [Server thread/INFO]: GuardianOfPandas lost connection: Disconnected
+[01:44:20] [Server thread/INFO]: GuardianOfPandas left the game
+[01:54:04] [Server thread/INFO]: Brogrammist lost connection: Disconnected
+[01:54:04] [Server thread/INFO]: Brogrammist left the game
+[02:01:19] [Server thread/INFO]: Relabraize lost connection: Disconnected
+[02:01:19] [Server thread/INFO]: Relabraize left the game
+[02:04:19] [Server thread/INFO]: Stopping server
+[02:04:19] [Server thread/INFO]: Saving players
+[02:04:19] [Server thread/INFO]: Saving worlds
+[02:04:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[johnben]'/minecraft:overworld
+[02:04:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[johnben]'/minecraft:the_nether
+[02:04:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[johnben]'/minecraft:the_end
+[02:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (johnben): All chunks are saved
+[02:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

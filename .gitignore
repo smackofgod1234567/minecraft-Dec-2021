@@ -1,0 +1,3 @@
+settings.bat
+#anything that I change in this file, git will ignore that setting so that johnny doesn't need to change anything on his side
+#good for RAM changes
