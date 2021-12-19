@@ -1030,6 +1030,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2021-12-17 23:18:08 -0500",
       "minecraft:sunflower_plains": "2021-12-04 21:56:43 -0500",
       "minecraft:birch_forest": "2021-12-04 13:20:58 -0500",
       "minecraft:windswept_hills": "2021-12-04 21:50:31 -0500",
@@ -1041,8 +1042,10 @@
       "minecraft:forest": "2021-12-04 21:46:24 -0500",
       "minecraft:lush_caves": "2021-12-03 23:30:34 -0500",
       "minecraft:windswept_forest": "2021-12-04 13:23:28 -0500",
+      "minecraft:snowy_beach": "2021-12-17 23:18:18 -0500",
       "minecraft:windswept_savanna": "2021-12-04 13:25:05 -0500",
       "minecraft:flower_forest": "2021-12-04 21:50:30 -0500",
+      "minecraft:old_growth_birch_forest": "2021-12-17 23:56:23 -0500",
       "minecraft:plains": "2021-12-04 21:47:05 -0500"
     },
     "done": false
@@ -1137,9 +1140,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-12-17 23:06:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-12-03 23:01:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2021-12-17 22:52:19 -0500"
     },
     "done": true
   },
@@ -2012,6 +2027,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-12-03 23:00:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-12-17 23:13:10 -0500"
     },
     "done": true
   },
